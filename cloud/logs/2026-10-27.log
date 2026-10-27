@@ -1,0 +1,5 @@
+2026-10-27 04:32:31,419 WARNING research unavailable (No module named 'anthropic'): trading on price action alone
+2026-10-27 04:32:31,593 INFO balance Rs 150,000 | mode paper | broker yahoo | indices ['NIFTY']
+2026-10-27 04:32:31,672 INFO NIFTY | market: mixed day: 22745.7 between open 22707.6 and prev close 22753.2 | chart: no setup: close 22745.7 inside 22676.1-22767.3, rsi 58, ema9/21 22736.4/22717.1
+2026-10-27 04:35:06,801 INFO NIFTY | market: bullish day: 22789.2 above open 22707.6 and prev close 22753.2 | chart: LONG NIFTY: close 22789.2 broke 30-min high 22767.3, ema9>ema21 trend, rsi 64, atr 33.2, PDH/PDL/PDC 22753/22387/22753
+2026-10-27 04:35:06,833 INFO F&O: NIFTY03NOV22750CE @ 253.41 | risk: REJECT: 1 lot risks ~Rs 1,744 vs budget Rs 1,500, costs Rs 16,472 vs cash limit Rs 75,000
